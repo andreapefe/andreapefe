@@ -5,7 +5,7 @@ I am a first year master student in Computer Science and Electronics in France s
 ## On going projects :hammer:
 ### Robotic's club
 - Communication between STM32 using CAN Bus network
-- Universal PCB integrating an STM32, CAN transreceiver and DC-DC Conversion. 
+- Universal PCB integrating an STM32, CAN transreceiver and control LEDs. 
 
 ### Class projects
 - Object-oriented embedded programming project 
